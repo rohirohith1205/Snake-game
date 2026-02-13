@@ -16,3 +16,5 @@ GUI Library: Tkinter
 
 **How to run**
 python main.py
+
+chnage the image path according to your image path
